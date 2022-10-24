@@ -2,7 +2,7 @@
 
 
 
-[![Twitter Badge](https://img.shields.io/badge/-@tsadrakula-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tsadrakula)](https://twitter.com/tsadrakula) ![Linkedin Badge](https://img.shields.io/badge/-tsadrakula-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/trenton-sadrakula/)]
+[![Twitter Badge](https://img.shields.io/badge/-@tsadrakula-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tsadrakula)](https://twitter.com/tsadrakula) ![Linkedin Badge](https://img.shields.io/badge/-tsadrakula-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/trenton-sadrakula/)
 [![Gmail Badge](https://img.shields.io/badge/-tsadrakula@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tsadrakula@gmail.com)](mailto:tsadrakula@gmail.com)
 
 I am Trenton Sadrakula 😃. I am from Kansas City, Kansas and currently working through becoming a full stack engineer. I love to learn and play guitar.
