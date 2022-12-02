@@ -11,8 +11,9 @@ I am Trenton Sadrakula 😃. I am from Kansas City, Kansas and currently working
 Talk to me about
 - Front-end development using **HTML, Javascript,CSS,Bootstrap, Jquery**
 - Frameworks using **React and Redux**
-- Still learning Information Databases and Systems
-- Solving Data structure and algorithm questions in **JavaScript**
+- Still learning Mongo and REST API
+- Solving Data structure and algorithm questions in **JavaScript and PHP**
+- Database management with **PSQL, mySQL, and bash scripting**
 
 ![Trenton's github stats](https://github-readme-stats.vercel.app/api?username=tsadrakula&hide=["issues"]&show_icons=true)
 
