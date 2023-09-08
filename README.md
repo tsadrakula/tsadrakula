@@ -7,6 +7,8 @@
 
 I am Trenton Sadrakula 😃. I am from Kansas City, Kansas and currently working with the LAMP stack for my job and MERN stack for personal goals. I love to learn and play guitar.
 
+Check out my portfolio website [Here](https://www.sadrakulaonline.com)
+
 ## ⚡ Technologies
 Talk to me about
 - Front-end development using **HTML, Javascript,CSS,Bootstrap, Jquery, PHP**
